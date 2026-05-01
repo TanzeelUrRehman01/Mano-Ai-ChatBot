@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🤖 Mano AI Web
 
 > A production-ready AI web application with streaming chat, image generation, voice input, and more — powered entirely by **free APIs**.
@@ -155,13 +154,13 @@ vercel
 
 ## 🖥️ App Screenshots
 ### Home Page
-![Home](.public/screenshots/2.jpg)
+![Home](./public/screenshots/2.jpg)(./public/screenshots/3.jpg)
 
 ### Chat Interface
-![Chat](.public/screenshots/4.jpg)
+![Chat](./public/screenshots/4.jpg)
 
 ### Image
-![Image Generator](.public/screenshots/5.jpg)
+![Image Generator](./public/screenshots/5.jpg)
 
 ## 📄 License
 
@@ -173,6 +172,6 @@ MIT — Free to use, modify, and distribute.
   <strong>⚡ Crafted by Tanzeel Ur Rehman</strong><br/>
   Built with Next.js · Tailwind CSS · Framer Motion
 </div>
-=======
+
 
 
