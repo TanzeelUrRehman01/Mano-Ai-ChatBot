@@ -154,8 +154,8 @@ vercel
 
 ## 🖥️ App Screenshots
 ### Home Page
-![Home](./Screenshot/2.jpg)
-![Home](./screenshots/3.jpg)
+![Home](./Screenshot/2.jpg) 
+![Home](./Screenshots/3.jpg)
 
 
 ### Chat Interface
