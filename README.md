@@ -154,13 +154,14 @@ vercel
 
 ## 🖥️ App Screenshots
 ### Home Page
-![Home](./public/screenshots/2.jpg)(./public/screenshots/3.jpg)
+![Home](./public/Screenshot/2.jpg)
+!(./public/screenshots/3.jpg)
 
 ### Chat Interface
-![Chat](./public/screenshots/4.jpg)
+![Chat](./public/Screenshot/4.jpg)
 
 ### Image
-![Image Generator](./public/screenshots/5.jpg)
+![Image Generator](./public/Screenshot/5.jpg)
 
 ## 📄 License
 
