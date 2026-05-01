@@ -1,8 +1,9 @@
+<<<<<<< HEAD
 # 🤖 Mano AI Web
 
 > A production-ready AI web application with streaming chat, image generation, voice input, and more — powered entirely by **free APIs**.
 
-![Mano AI Banner](https://image.pollinations.ai/prompt/Mano%20AI%20web%20app%20dark%20interface%20screenshot%20modern%20UI?width=1200&height=400&model=flux&nologo=true)
+![Mano AI Banner](./public/banner.png)
 
 ## ✨ Features
 
@@ -152,6 +153,16 @@ vercel
 - Never exposed to the frontend
 - All keys in `.env.local` (gitignored)
 
+## 🖥️ App Screenshots
+### Home Page
+![Home](./screenshots/2.jpg),(./screenshots/3.jpg)
+
+### Chat Interface
+![Chat](./screenshots/4.jpg)
+
+### Image
+![Image Generator](./screenshots/5.jpg)
+
 ## 📄 License
 
 MIT — Free to use, modify, and distribute.
@@ -159,6 +170,9 @@ MIT — Free to use, modify, and distribute.
 ---
 
 <div align="center">
-  <strong>⚡ Powered by Free AI APIs</strong><br/>
+  <strong>⚡ Crafted by Tanzeel Ur Rehman</strong><br/>
   Built with Next.js · Tailwind CSS · Framer Motion
 </div>
+=======
+
+
