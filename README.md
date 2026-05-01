@@ -3,7 +3,7 @@
 
 > A production-ready AI web application with streaming chat, image generation, voice input, and more — powered entirely by **free APIs**.
 
-![Mano AI Banner](./public/banner.png)
+![Mano AI Banner](./public/banner.jpg)
 
 ## ✨ Features
 
@@ -155,13 +155,13 @@ vercel
 
 ## 🖥️ App Screenshots
 ### Home Page
-![Home](./screenshots/2.jpg),(./screenshots/3.jpg)
+![Home](.public/screenshots/2.jpg)
 
 ### Chat Interface
-![Chat](./screenshots/4.jpg)
+![Chat](.public/screenshots/4.jpg)
 
 ### Image
-![Image Generator](./screenshots/5.jpg)
+![Image Generator](.public/screenshots/5.jpg)
 
 ## 📄 License
 
